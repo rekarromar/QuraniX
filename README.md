@@ -3,7 +3,7 @@
 
 QuraniX is a modern, free to download Islamic application to serve Muslims all around the world.
 
-![Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/c8/e9/9dc8e96e-0d3f-c74d-75f0-8ed2213213fe/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1200x600wa.png)
+quranix.app
 
 
 ## Features
@@ -44,11 +44,6 @@ QuraniX is a modern, free to download Islamic application to serve Muslims all a
 ### TASBEEHAT
 - Tabeeh that you can do your daily tasbeehats with
 - Adding custom zikrs to do you tasbeehat
-## 🔗 Links
-[![playstore](https://1000logos.net/wp-content/uploads/2021/07/Google-Play-Logo.png)](https://play.google.com/store/apps/details?id=com.qurani.myquran)
 
-[![appstore](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/App_Store_%28iOS%29.svg/2048px-App_Store_%28iOS%29.svg.png)](https://apps.apple.com/fr/app/quranix/id6479559531)
-
-[![instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png)](https://www.instagram.com/quranixapp/)
 
 
